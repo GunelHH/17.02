@@ -1,0 +1,13 @@
+/Users/gunelhesenova/Projects/17.02/17.02/bin/Debug/netcoreapp3.1/17.02.deps.json
+/Users/gunelhesenova/Projects/17.02/17.02/bin/Debug/netcoreapp3.1/17.02.runtimeconfig.json
+/Users/gunelhesenova/Projects/17.02/17.02/bin/Debug/netcoreapp3.1/17.02.runtimeconfig.dev.json
+/Users/gunelhesenova/Projects/17.02/17.02/bin/Debug/netcoreapp3.1/17.02.dll
+/Users/gunelhesenova/Projects/17.02/17.02/bin/Debug/netcoreapp3.1/17.02.pdb
+/Users/gunelhesenova/Projects/17.02/17.02/obj/Debug/netcoreapp3.1/17.02.csproj.AssemblyReference.cache
+/Users/gunelhesenova/Projects/17.02/17.02/obj/Debug/netcoreapp3.1/17.02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gunelhesenova/Projects/17.02/17.02/obj/Debug/netcoreapp3.1/17.02.AssemblyInfoInputs.cache
+/Users/gunelhesenova/Projects/17.02/17.02/obj/Debug/netcoreapp3.1/17.02.AssemblyInfo.cs
+/Users/gunelhesenova/Projects/17.02/17.02/obj/Debug/netcoreapp3.1/17.02.csproj.CoreCompileInputs.cache
+/Users/gunelhesenova/Projects/17.02/17.02/obj/Debug/netcoreapp3.1/17.02.dll
+/Users/gunelhesenova/Projects/17.02/17.02/obj/Debug/netcoreapp3.1/17.02.pdb
+/Users/gunelhesenova/Projects/17.02/17.02/obj/Debug/netcoreapp3.1/17.02.genruntimeconfig.cache
